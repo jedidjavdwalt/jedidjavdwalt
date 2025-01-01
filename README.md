@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jedidja van der Walt
 
-A passionate Software Developer 🤖 (among other things) from South Africa
+Software Developer 🤖 by day and Underwater Hockey Player🤿 by night...
 
 <br />
 
@@ -10,7 +10,6 @@ A passionate Software Developer 🤖 (among other things) from South Africa
 🌱 I’m currently completing the **Quality Assurance Certification from FreeCodeCamp**<br>
 📫 Reach out to me at **jedidjavdwalt@gmail.com**<br>
 📄 Find out more about my experience on [LinkedIn](https://www.linkedin.com/in/jedidjavdwalt/)<br>
-⚡ Fun fact: **I play Underwater Hockey!**
 
 <br />
 
@@ -85,7 +84,7 @@ A passionate Software Developer 🤖 (among other things) from South Africa
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
     </a> 
     <a href="https://reactrouter.com/en/main" target="_blank"> 
-        <img align="center" src="https://reactrouter.com/_brand/react-router-stacked-color-inverted.svg" alt="react-router" width="40" height="40"/> 
+        <img align="center" src="https://pics.freeicons.io/uploads/icons/png/9267873881551942642-512.png" alt="react-router" width="40" height="40"/> 
     </a> 
     <a href="https://redux.js.org" target="_blank"> 
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
@@ -94,7 +93,7 @@ A passionate Software Developer 🤖 (among other things) from South Africa
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
     </a> 
     <a href="https://slack.com" target="_blank"> 
-        <img align="center" src="https://previews.us-east-1.widencdn.net/preview/48045879/assets/asset-view/120e11d9-89e2-4f3a-8989-8e60478c762d/thumbnail/eyJ3IjoyMDQ4LCJoIjoyMDQ4LCJzY29wZSI6ImFwcCJ9?Expires=1702792800&Signature=ci62rpZOJLaWzEmbUeAagFy1J2Jad9mqTVoK3L6yL3IxoTKh7MjKRQlrgvuNs4D9opJYof0Reiec8O-qWvey42tBp3sTJT6EIgNZFT4yxc7KjmsISffEkLRxqyMO8mTVXFrXnI2l~EIqXssawYxhFVT909e5yHcseVK1iHZGvcBvb5iledfJlqhpg-dCb8e0TG4Fr1xJRmFF8lZ3Go~0hX68Ku0sBfN0cnQCoqio2xo8I4WsuMjVMftpN6EOSZhPNNm2kYCtSYbOgCxdlI9GLHSUXGQBqnbB5ro94e~~NHZ2nquFXuBRWvTPzXY389HRrMzSh3k5k6NAay1Fl2HxrQ__&Key-Pair-Id=APKAJM7FVRD2EPOYUXBQ" alt="slack" width="40" height="40"/> 
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="slack" width="40" height="40"/> 
     </a> 
     <a href="https://styled-components.com" target="_blank"> 
         <img align="center" src="https://raw.githubusercontent.com/styled-components/brand/bde053200192814dcd55923b6e41884d18e51665/styled-components.svg" alt="styled-components" width="40" height="40"/> 
@@ -104,10 +103,7 @@ A passionate Software Developer 🤖 (among other things) from South Africa
     </a> 
     <a href="https://www.typescriptlang.org/" target="_blank"> 
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
-        <img align="center" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
-    </a> 
+    </a>
 </p>
 
 <br />
@@ -131,7 +127,3 @@ A passionate Software Developer 🤖 (among other things) from South Africa
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <br />
-
-# 🎶 Music:
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=21aabq7rr54lxl3n5fbxddhii&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true" />
