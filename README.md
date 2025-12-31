@@ -111,20 +111,6 @@ Software Developer 🤖 by day and Underwater Hockey Player🤿 by night...
 
 <br />
 
-# 📊 GitHub stats:
-
-![](https://github-readme-stats.vercel.app/api?username=jedidjavdwalt&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jedidjavdwalt&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jedidjavdwalt&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-<br />
-
-# 🏆 GitHub trophies:
-
-![](https://github-profile-trophy.vercel.app/?username=jedidjavdwalt&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-<br />
-
 # ✍️ Random quote:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
