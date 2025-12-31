@@ -42,7 +42,7 @@ Software Developer 🤖 by day and Underwater Hockey Player🤿 by night...
         <img align="center" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
     </a> 
     <a href="https://getbootstrap.com" target="_blank"> 
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png?20210507000024" alt="bootstrap" width="40" height="40"/> 
     </a> 
     <a href="https://www.chartjs.org" target="_blank"> 
         <img align="center" src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
@@ -102,7 +102,7 @@ Software Developer 🤖 by day and Underwater Hockey Player🤿 by night...
         <img align="center" src="https://raw.githubusercontent.com/styled-components/brand/bde053200192814dcd55923b6e41884d18e51665/styled-components.svg" alt="styled-components" width="40" height="40"/> 
     </a> 
     <a href="https://swagger.io" target="_blank"> 
-        <img align="center" src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-gm88w2os.png" alt="swagger" width="40" height="40"/> 
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png?20170812110931" alt="swagger" width="40" height="40"/> 
     </a> 
     <a href="https://www.typescriptlang.org/" target="_blank"> 
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
