@@ -6,7 +6,7 @@ Software Developer 🤖 by day and Underwater Hockey Player🤿 by night...
 
 # 💫 About me:
 
-🔭 I’m currently working on [Kepler + Co](https://app.keplerco.io/)<br>
+🔭 I’m currently working for [Luckybeard](https://www.luckybeard.com)<br>
 🌱 I’m currently completing the **Quality Assurance Certification from FreeCodeCamp**<br>
 📫 Reach out to me at **jedidjavdwalt@gmail.com**<br>
 📄 Find out more about my experience on [LinkedIn](https://www.linkedin.com/in/jedidjavdwalt/)<br>
