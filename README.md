@@ -77,6 +77,9 @@ Software Developer 🤖 by day and Underwater Hockey Player🤿 by night...
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
         <img align="center" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
     </a> 
+    <a href="https://nextjs.org target="_blank"> 
+        <img align="center" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="next" width="40" height="40"/> 
+    </a> 
     <a href="https://postman.com" target="_blank"> 
         <img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
     </a> 
